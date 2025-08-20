@@ -13,7 +13,7 @@ const questions = [
     {
         "question": "೬ನೇ ಶತಮಾನದ ಪಶ್ಚಿಮ ಗಂಗ ಸಾಮ್ರಾಜ್ಯದ ಕಾಲದಲ್ಲಿ ಮತ್ತು ......................... ,ಶತಮಾನದ ........................... ಸಾಮ್ರಾಜ್ಯದ ಕಾಲದಲ್ಲಿ ಹಳಗನ್ನಡ ಸಾಹಿತ್ಯ ,ರಾಜಾಶ್ರಯ ಪಡೆಯಿತು .",
         "options": ["೯ನೇ - ರಾಷ್ಟ್ರಕೂಟ", "೧೨ನೇ - ರಾಷ್ಟ್ರಕೂಟ", "೯ನೇ - ಕದಂಬರ", "೧೦ನೇ - ಚೋಳ"],
-        "answer": "೯ನೇ - ರಾಷ್ಟ್ರಕೂಟ"
+        "answer": "೯ನೇ - ರಾಷ್ಟ್ರಕೂಟ(9th Century )"
     },
     {
         "question": "ಪ್ರತಿಯೊಂದು ಭಾಷೆಗೂ ತನ್ನದೇ ಆದ ................................ ......................... ಇದೆ .",
@@ -91,7 +91,7 @@ const questions = [
         "answer": "ಕುವೆಂಪು"
     },
     {
-        "question": "ಕನ್ನಡದ ಮೊದಲ ರಾಜವಂಶ .....................",
+        "question": "ಕನ್ನಡದ ಮೊದಲ ರಾಜವಂಶ (please google this answer).....................",
         "options": ["ಗಂಗರು", "ಕದಂಬರು", "ಚಾಲುಕ್ಯರು", "ರಾಷ್ಟ್ರಕೂಟರು"],
         "answer": "ಗಂಗರು"
     },
@@ -146,17 +146,17 @@ const questions = [
         "answer": "ನೀಲಮಣಿ ಎನ್. ರಾಜು"
     },
     {
-        "question": "“ಕಾಲ” ಪದದ ಅರ್ಥ",
+        "question": "ಕಾಲ ಪದದ ಅರ್ಥ",
         "options": ["ಭವಿಷ್ಯತ್", "ಭೂತ", "ವರ್ತಮಾನ", "ಸಮಯ"],
-        "answer": "ಭವಿಷ್ಯತ್"
+        "answer": "ಸಮಯ"
     },
     {
-        "question": "\"\"\" ಹದ್ದು \"\" ಪದದ ನಾನಾರ್ಥಕವಿದು.",
+        "question": " ಹದ್ದು ಪದದ ನಾನಾರ್ಥಕವಿದು.",
         "options": ["ಪಕ್ಷಿ, ಗಡಿ", "ಪಾರಿವಾಳ, ಸರಿಹದ್ದು", "ನಿಶಬ್ಧ, ಗಡಿ", "ಹಕ್ಕಿ, ಮೇರೆ"],
         "answer": "ಪಕ್ಷಿ, ಗಡಿ"
     },
     {
-        "question": "‘Secretary’ ಎಂದರೆ .......................",
+        "question": "Secretary ಎಂದರೆ .......................",
         "options": ["ಸಚಿವ", "ಮುಖ್ಯ", "ಕಾರ್ಯದರ್ಶಿ", "ಅಧ್ಯಕ್ಷ"],
         "answer": "ಕಾರ್ಯದರ್ಶಿ"
     },
@@ -182,77 +182,77 @@ const questions = [
         "answer": "ಏಳು"
     },
     {
-        "question": "Does Tushar love men? (Vishwa)",
+        "question": "Does Tushar love men?",
         "options": ["No", "Bro is straight", "Yes", "Donno"],
         "answer": "Yes"
     },
     {
-        "question": "“ಮರದಿಂದ” – ಇಲ್ಲಿರುವ ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯವನ್ನು ಹೆಸರಿಸಿ.",
+        "question": "ಮರದಿಂದ : ಇಲ್ಲಿರುವ ವಿಭಕ್ತಿ ಪ್ರತ್ಯಯವನ್ನು ಹೆಸರಿಸಿ.",
         "options": ["ತೃತೀಯಾ", "ಚತುರ್ಥಿ", "ಪಂಚಮಿ", "ಷಷ್ಠಿ"],
         "answer": "ತೃತೀಯಾ"
     },
     {
-        "question": "“ಮನೆ” ಪದದ ಬಹುವಚನ ರೂಪ .....................",
+        "question": "ಮನೆ ಪದದ ಬಹುವಚನ ರೂಪ .....................",
         "options": ["ಮನೆಗಳು", "ಮನೆಯನ್ನು", "ಮನೆಯಿಂದ", "ಮನೆಯಲ್ಲಿ"],
         "answer": "ಮನೆಗಳು"
     },
     {
-        "question": "“ದೇವರು” ಪದದ ಬಹುವಚನ ರೂಪ .....................",
+        "question": "ದೇವರು ಪದದ ಬಹುವಚನ ರೂಪ .....................",
         "options": ["ದೇವರುಗಳು", "ದೇವರು", "ದೇವತೆಗಳು", "ದೇವ"],
         "answer": "ದೇವರುಗಳು"
     },
     {
-        "question": "“ಹೂವು” ಪದದ ಬಹುವಚನ ರೂಪ .....................",
+        "question": "ಹೂವು ಪದದ ಬಹುವಚನ ರೂಪ .....................",
         "options": ["ಹೂವುಗಳು", "ಹೂಗಳು", "ಹೂವಿಂದ", "ಹೂವಿನಲ್ಲಿ"],
         "answer": "ಹೂವುಗಳು"
     },
     {
-        "question": "“ತಾಯಿ” ಪದದ ಬಹುವಚನ ರೂಪ .....................",
+        "question": "ತಾಯಿ ಪದದ ಬಹುವಚನ ರೂಪ .....................",
         "options": ["ತಾಯಂದಿರು", "ತಾಯಿಯರು", "ತಾಯಿಗಳು", "ತಾಯಂದರು"],
         "answer": "ತಾಯಂದಿರು"
     },
     {
-        "question": "“ಅರಸ” ಪದದ ಸ್ತ್ರೀಲಿಂಗ ರೂಪ .....................",
+        "question": "ಅರಸ ಪದದ ಸ್ತ್ರೀಲಿಂಗ ರೂಪ .....................",
         "options": ["ಅರಸಿ", "ರಾಣಿ", "ದೊರೆಸಾನಿ", "ಮಹಾರಾಣಿ"],
         "answer": "ಅರಸಿ"
     },
     {
-        "question": "“ಅವನು” ಪದದ ಸ್ತ್ರೀಲಿಂಗ ರೂಪ .....................",
+        "question": "ಅವನು ಪದದ ಸ್ತ್ರೀಲಿಂಗ ರೂಪ .....................",
         "options": ["ಅವಳು", "ಆಕೆ", "ಇವಳು", "ಈಕೆ"],
         "answer": "ಅವಳು"
     },
     {
-        "question": "“ರಾಜ” ಪದದ ಸ್ತ್ರೀಲಿಂಗ ರೂಪ .....................",
+        "question": "ರಾಜ ಪದದ ಸ್ತ್ರೀಲಿಂಗ ರೂಪ .....................",
         "options": ["ರಾಣಿ", "ರಾಜ್ಞಿ", "ದೊರೆಸಾನಿ", "ಮಹಾರಾಣಿ"],
         "answer": "ರಾಣಿ"
     },
     {
-        "question": "“ದೊರೆ” ಪದದ ಸ್ತ್ರೀಲಿಂಗ ರೂಪ .....................",
+        "question": "ದೊರೆ ಪದದ ಸ್ತ್ರೀಲಿಂಗ ರೂಪ .....................",
         "options": ["ದೊರೆಸಾನಿ", "ರಾಣಿ", "ಅರಸಿ", "ಮಹಾರಾಣಿ"],
         "answer": "ದೊರೆಸಾನಿ"
     },
     {
-        "question": "“ಹುಡುಗ” ಪದದ ಸ್ತ್ರೀಲಿಂಗ ರೂಪ .....................",
+        "question": "ಹುಡುಗ ಪದದ ಸ್ತ್ರೀಲಿಂಗ ರೂಪ .....................",
         "options": ["ಹುಡುಗಿ", "ಬಾಲಕಿ", "ಹೆಣ್ಣು", "ಕನ್ಯೆ"],
         "answer": "ಹುಡುಗಿ"
     },
     {
-        "question": "“ಗೆಳೆಯ” ಪದದ ಸ್ತ್ರೀಲಿಂಗ ರೂಪ .....................",
+        "question": "ಗೆಳೆಯ ಪದದ ಸ್ತ್ರೀಲಿಂಗ ರೂಪ .....................",
         "options": ["ಗೆಳತಿ", "ಸ್ನೇಹಿತೆ", "ಸಖಿ", "ಮಿತ್ರಳು"],
         "answer": "ಗೆಳತಿ"
     },
     {
-        "question": "“ಸಹೋದ್ಯೋಗಿ” ಪದದ ಸ್ತ್ರೀಲಿಂಗ ರೂಪ .....................",
+        "question": "ಸಹೋದ್ಯೋಗಿ ಪದದ ಸ್ತ್ರೀಲಿಂಗ ರೂಪ .....................",
         "options": ["ಸಹೋದ್ಯೋಗಿನಿ", "ಸಹೋದ್ಯೋಗಿ", "ಸಹೋದ್ಯೋಗಿಗಳು", "ಸಹೋದ್ಯೋಗ"],
         "answer": "ಸಹೋದ್ಯೋಗಿನಿ"
     },
     {
-        "question": "“ಹಣತೆ” ಪದದ ಲಿಂಗವನ್ನು ಗುರುತಿಸಿ.",
+        "question": "ಹಣತೆ ಪದದ ಲಿಂಗವನ್ನು ಗುರುತಿಸಿ.",
         "options": ["ಸ್ತ್ರೀಲಿಂಗ", "ಪುಲ್ಲಿಂಗ", "ನಪುಂಸಕಲಿಂಗ", "ಉಭಯಲಿಂಗ"],
         "answer": "ಸ್ತ್ರೀಲಿಂಗ"
     },
     {
-        "question": "“ಮಗು” ಪದದ ಲಿಂಗವನ್ನು ಗುರುತಿಸಿ.",
+        "question": "ಮಗು ಪದದ ಲಿಂಗವನ್ನು ಗುರುತಿಸಿ.",
         "options": ["ನಪುಂಸಕಲಿಂಗ", "ಸ್ತ್ರೀಲಿಂಗ", "ಪುಲ್ಲಿಂಗ", "ಉಭಯಲಿಂಗ"],
         "answer": "ನಪುಂಸಕಲಿಂಗ"
     },
@@ -262,44 +262,44 @@ const questions = [
         "answer": "Women"
     },
     {
-        "question": "“ಶಿಕ್ಷಕ” ಪದದ ಲಿಂಗವನ್ನು ಗುರುತಿಸಿ.",
+        "question": "ಶಿಕ್ಷಕ ಪದದ ಲಿಂಗವನ್ನು ಗುರುತಿಸಿ.",
         "options": ["ಪುಲ್ಲಿಂಗ", "ಸ್ತ್ರೀಲಿಂಗ", "ನಪುಂಸಕಲಿಂಗ", "ಉಭಯಲಿಂಗ"],
         "answer": "ಪುಲ್ಲಿಂಗ"
     },
     {
-        "question": "“ವಿದ್ಯಾರ್ಥಿ” ಪದದ ಲಿಂಗವನ್ನು ಗುರುತಿಸಿ.",
+        "question": "ವಿದ್ಯಾರ್ಥಿ ಪದದ ಲಿಂಗವನ್ನು ಗುರುತಿಸಿ.",
         "options": ["ಪುಲ್ಲಿಂಗ", "ಸ್ತ್ರೀಲಿಂಗ", "ನಪುಂಸಕಲಿಂಗ", "ಉಭಯಲಿಂಗ"],
         "answer": "ಪುಲ್ಲಿಂಗ"
     },
     {
-        "question": "“ಹಸು” ಪದದ ಲಿಂಗವನ್ನು ಗುರುತಿಸಿ.",
+        "question": "ಹಸು ಪದದ ಲಿಂಗವನ್ನು ಗುರುತಿಸಿ.",
         "options": ["ಸ್ತ್ರೀಲಿಂಗ", "ಪುಲ್ಲಿಂಗ", "ನಪುಂಸಕಲಿಂಗ", "ಉಭಯಲಿಂಗ"],
         "answer": "ಸ್ತ್ರೀಲಿಂಗ"
     },
     {
-        "question": "“ಕವಿ” ಪದದ ಲಿಂಗವನ್ನು ಗುರುತಿಸಿ.",
+        "question": "ಕವಿ ಪದದ ಲಿಂಗವನ್ನು ಗುರುತಿಸಿ.",
         "options": ["ಪುಲ್ಲಿಂಗ", "ಸ್ತ್ರೀಲಿಂಗ", "ನಪುಂಸಕಲಿಂಗ", "ಉಭಯಲಿಂಗ"],
         "answer": "ಪುಲ್ಲಿಂಗ"
     },
     {
-        "question": "“ನದಿ” ಪದದ ಲಿಂಗವನ್ನು ಗುರುತಿಸಿ.",
+        "question": "ನದಿ ಪದದ ಲಿಂಗವನ್ನು ಗುರುತಿಸಿ.",
         "options": ["ಸ್ತ್ರೀಲಿಂಗ", "ಪುಲ್ಲಿಂಗ", "ನಪುಂಸಕಲಿಂಗ", "ಉಭಯಲಿಂಗ"],
         "answer": "ಸ್ತ್ರೀಲಿಂಗ"
     },
     {
-        "question": "\"\"\" ಮೂಡಣ \"\" ಪದದ ವಿರುದ್ಧಾರ್ಥಕ ರೂಪ .........................",
+        "question": " ಮೂಡಣ ಪದದ ವಿರುದ್ಧಾರ್ಥಕ ರೂಪ .........................",
         "options": ["ಪಡುವಣ", "ತೆಂಕಣ", "ದಿಕ್ಕು", "ಬಡಗಣ"],
         "answer": "ಪಡುವಣ"
     },
     {
-        "question": "\"\"\" ತೊರೆ \"\" ಪದದ ನಾನಾರ್ಥಕಗಳು : .....................",
+        "question": " ತೊರೆ ಪದದ ನಾನಾರ್ಥಕಗಳು : .....................",
         "options": ["ಬಿಟ್ಟು ಬಿಡು , ಹೊಳೆ", "ಹೊಳೆ , ಸಂಪರ್ಕಿಸು", "ಬಿಟ್ಟು ಬಿಡು , ಸಮುದ್ರ", "ನದಿ, ತ್ಯಜಿಸು"],
         "answer": "ಬಿಟ್ಟು ಬಿಡು , ಹೊಳೆ"
     },
     {
         "question": "\"\"\" Receipt \"\" ಈ ಆ0ಗ್ಲ ಪದದ ಕನ್ನಡ ರೂಪ ........................",
         "options": ["ಅಂಗೀಕಾರ", "ರಸೀದಿ", "ಪತ್ರ", "ಸ್ವೀಕೃತಿ"],
-        "answer": "ಅಂಗೀಕಾರ"
+        "answer": "ರಸೀದಿ"
     },
     // Questions from cie-1 SK - LRK.docx
     {
@@ -313,7 +313,7 @@ const questions = [
         "answer": "ಜ್ಯುಡಿಷಿಯಲ್ ಮ್ಯಾಜಿಸ್ಟ್ರೇಟ್ ನ್ಯಾಯಾಲಯದ ಭಾಷೆ ಮತ್ತು ವಾದ ಕನ್ನಡದಲ್ಲೇ ಇರಬೇಕು ."
     },
     {
-        "question": "\"\"\" ಆಡಳಿತ ಭಾಷೆ \"\" ಎಂದರೆ ............................",
+        "question": "ಆಡಳಿತ ಭಾಷೆ  ಎಂದರೆ ........................",
         "options": ["ರಾಜ್ಯದ ಆಡಳಿತದಲ್ಲಿ ಬಳಸುವ ಭಾಷೆ", "ಕೇಂದ್ರ ಸರ್ಕಾರದ ಭಾಷೆ", "ನ್ಯಾಯಾಲಯದ ಭಾಷೆ", "ಶಾಲಾ-ಕಾಲೇಜುಗಳ ಭಾಷೆ"],
         "answer": "ರಾಜ್ಯದ ಆಡಳಿತದಲ್ಲಿ ಬಳಸುವ ಭಾಷೆ"
     },
@@ -348,7 +348,7 @@ const questions = [
         "answer": "೨೦೦೬"
     },
     {
-        "question": "“ಕನ್ನಡ ಕಾಯಕ ವರ್ಷ” ಎಂದು ಘೋಷಿಸಿದ ವರ್ಷ .....................",
+        "question": "ಕನ್ನಡ ಕಾಯಕ ವರ್ಷ ಎಂದು ಘೋಷಿಸಿದ ವರ್ಷ .....................",
         "options": ["೨೦೨೦-೨೧", "೨೦೧೯-೨೦", "೨೦೨೧-೨೨", "೨೦೧೮-೧೯"],
         "answer": "೨೦೨೦-೨೧"
     },
@@ -434,12 +434,12 @@ const questions = [
         "answer": "ಪೂರ್ವ ಸಿದ್ಧತೆ"
     },
     {
-        "question": "\" \"\" ಕಲರವ \"\" ಪದದ ಅರ್ಥ ..............................\"",
+        "question": " ಕಲರವ \"\" ಪದದ ಅರ್ಥ ..............................\"",
         "options": ["ಮಧುರವಾದ ಧ್ವನಿ", "ಕರ್ಕಶ ಧ್ವನಿ", "ಗಟ್ಟಿಯಾದ ಕೂಗು", "ಅಳು"],
         "answer": "ಮಧುರವಾದ ಧ್ವನಿ"
     },
     {
-        "question": "“ ದಿವಾನ” ಪದದ ಸಮಾನಾರ್ಥಕ ಪದಗಳು ..........................",
+        "question": " ದಿವಾನ ಪದದ ಸಮಾನಾರ್ಥಕ ಪದಗಳು ..........................",
         "options": ["ರಾಜ , ಸೈನಿಕ", "ಮಂತ್ರಿ , ರಾಜ", "ಮಂತ್ರಿ , ಸಚಿವ", "ಪ್ರಧಾನಿ, ರಾಜ"],
         "answer": "ಮಂತ್ರಿ , ಸಚಿವ"
     },
@@ -499,52 +499,52 @@ const questions = [
         "answer": "ಎಂಜಿನಿಯರುಗಳ ದಿನ"
     },
     {
-        "question": "“ಪುರಸ್ಕಾರ” ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
+        "question": "ಪುರಸ್ಕಾರ ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
         "options": ["ಪುರಃ + ಕಾರ", "ಪುರ + ಸ್ಕಾರ", "ಪುರಸ್ + ಕಾರ", "ಪುರಸ್ + ಆರ"],
         "answer": "ಪುರಃ + ಕಾರ"
     },
     {
-        "question": "“ಮನಸ್ಸು” ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
+        "question": "ಮನಸ್ಸು ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
         "options": ["ಮನಃ + ಸು", "ಮನ +స్సు", "ಮನಸ್ + ಸು", "ಮನ + ಅಸ್ಸು"],
         "answer": "ಮನಃ + ಸು"
     },
     {
-        "question": "“ನಮಸ್ಕಾರ” ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
+        "question": "ನಮಸ್ಕಾರ ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
         "options": ["ನಮಃ + ಕಾರ", "ನಮ + ಸ್ಕಾರ", "ನಮಸ್ + ಕಾರ", "ನಮಸ್ + ಆರ"],
         "answer": "ನಮಃ + ಕಾರ"
     },
     {
-        "question": "“ಚತುರ್ಮುಖ” ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
+        "question": "ಚತುರ್ಮುಖ ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
         "options": ["ಚತುಃ + ಮುಖ", "ಚತುರ್ + ಮುಖ", "ಚತು + ರ್ಮುಖ", "ಚತು + ಮುಖ"],
         "answer": "ಚತುಃ + ಮುಖ"
     },
     {
-        "question": "“ನಿಶ್ಚಲ” ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
+        "question": "ನಿಶ್ಚಲ ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
         "options": ["ನಿಃ + ಚಲ", "ನಿಶ್ + ಚಲ", "ನಿ + ಶ್ಚಲ", "ನಿ + ಚಲ"],
         "answer": "ನಿಃ + ಚಲ"
     },
     {
-        "question": "“ದುಶ್ಚಟ” ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
+        "question": "ದುಶ್ಚಟ ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
         "options": ["ದುಃ + ಚಟ", "ದುಶ್ + ಚಟ", "ದು + ಶ್ಚಟ", "ದು + ಚಟ"],
         "answer": "ದುಃ + ಚಟ"
     },
     {
-        "question": "“ವಯೋವೃದ್ಧ” ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
+        "question": "ವಯೋವೃದ್ಧ ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
         "options": ["ವಯಃ + ವೃದ್ಧ", "ವಯೋ + ವೃದ್ಧ", "ವಯ + ಓವೃದ್ಧ", "ವಯ + ವೃದ್ಧ"],
         "answer": "ವಯಃ + ವೃದ್ಧ"
     },
     {
-        "question": "“ಮನೋಹರ” ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
+        "question": "ಮನೋಹರ ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
         "options": ["ಮನಃ + ಹರ", "ಮನೋ + ಹರ", "ಮನ + ಓಹರ", "ಮನ + ಹರ"],
         "answer": "ಮನಃ + ಹರ"
     },
     {
-        "question": "“ಯಶಸ್ವಿ” ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
+        "question": "ಯಶಸ್ವಿ ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
         "options": ["ಯಶಃ + ಸ್ವಿ", "ಯಶಸ್ + ವಿ", "ಯಶ + ಸ್ವಿ", "ಯಶ + ಅಸ್ವಿ"],
         "answer": "ಯಶಃ + ಸ್ವಿ"
     },
     {
-        "question": "“ಪುನಸ್ಕಾರ” ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
+        "question": "ಪುನಸ್ಕಾರ ಪದವನ್ನು ಬಿಡಿಸಿ ಬರೆದಾಗ .....................",
         "options": ["ಪುನಃ + ಕಾರ", "ಪುನಸ್ + ಕಾರ", "ಪುನ + ಸ್ಕಾರ", "ಪುನ + ಆರ"],
         "answer": "ಪುನಃ + ಕಾರ"
     },
@@ -569,7 +569,7 @@ const questions = [
 // =============================================================================
 // == Animated Background Component ==
 // =============================================================================
-const Particles = () => {
+const Particles = ({ currentTheme }) => {
   const themes = useMemo(() => ({
     cyberpunk: {
       name: 'Cyberpunk',
@@ -585,7 +585,7 @@ const Particles = () => {
       glowColors: ['#ff0099', '#00ffff', '#ff6600'],
       particles: ['circle', 'triangle', 'diamond']
     },
-    organic: {
+     organic: {
       name: 'Organic Nature',
       background: 'linear-gradient(135deg, #1a2f1a 0%, #0f1f0f 50%, #2a3f2a 100%)',
       colors: ['#4ade80', '#22c55e', '#16a34a', '#65a30d', '#84cc16'],
@@ -629,11 +629,7 @@ const Particles = () => {
     }
   }), []);
 
-  const [selectedTheme] = useState(() => {
-    const themeKeys = Object.keys(themes);
-    const randomKey = themeKeys[Math.floor(Math.random() * themeKeys.length)];
-    return themes[randomKey];
-  });
+  const selectedTheme = currentTheme || themes.cyberpunk;
 
   const particleData = useMemo(() => {
     const particleCount = Math.floor(Math.random() * 8) + 8; // 8-15 particles
@@ -978,6 +974,70 @@ const Particles = () => {
 // == Main App Component ==
 // =============================================================================
 export default function App() {
+  // Theme management
+  const themes = useMemo(() => ({
+    cyberpunk: {
+      name: 'Cyberpunk',
+      background: 'linear-gradient(135deg, #0a0a0a 0%, #1a0a1a 50%, #0a1a1a 100%)',
+      colors: ['#ff0080', '#00ff80', '#8000ff', '#ff8000', '#0080ff'],
+      glowColors: ['#ff0080', '#00ff80', '#8000ff'],
+      particles: ['square', 'line', 'dot']
+    },
+    neonSynthwave: {
+      name: 'Neon Synthwave',
+      background: 'linear-gradient(135deg, #0f0f23 0%, #2d1b69 50%, #11092a 100%)',
+      colors: ['#ff0099', '#00ffff', '#ff6600', '#9900ff', '#ffff00'],
+      glowColors: ['#ff0099', '#00ffff', '#ff6600'],
+      particles: ['circle', 'triangle', 'diamond']
+    },
+     organic: {
+      name: 'Organic Nature',
+      background: 'linear-gradient(135deg, #1a2f1a 0%, #0f1f0f 50%, #2a3f2a 100%)',
+      colors: ['#4ade80', '#22c55e', '#16a34a', '#65a30d', '#84cc16'],
+      glowColors: ['#4ade80', '#22c55e', '#84cc16'],
+      particles: ['blob', 'leaf', 'circle']
+    },
+    minimalist: {
+      name: 'Minimalist Geometric',
+      background: 'linear-gradient(135deg, #f8fafc 0%, #e2e8f0 50%, #cbd5e1 100%)',
+      colors: ['#334155', '#64748b', '#475569', '#1e293b', '#0f172a'],
+      glowColors: ['#334155', '#64748b', '#475569'],
+      particles: ['square', 'circle', 'line']
+    },
+    retroFuturistic: {
+      name: 'Retro Futuristic',
+      background: 'linear-gradient(135deg, #1e1b4b 0%, #312e81 50%, #1e3a8a 100%)',
+      colors: ['#fbbf24', '#f59e0b', '#d97706', '#92400e', '#451a03'],
+      glowColors: ['#fbbf24', '#f59e0b', '#d97706'],
+      particles: ['hexagon', 'square', 'diamond']
+    },
+    darkAcademia: {
+      name: 'Dark Academia',
+      background: 'linear-gradient(135deg, #1c1917 0%, #292524 50%, #44403c 100%)',
+      colors: ['#d6d3d1', '#a8a29e', '#78716c', '#57534e', '#44403c'],
+      glowColors: ['#d6d3d1', '#a8a29e', '#78716c'],
+      particles: ['book', 'quill', 'circle']
+    },
+    holographic: {
+      name: 'Holographic Tech',
+      background: 'linear-gradient(135deg, #0c0c0c 0%, #1a1a2e 50%, #16213e 100%)',
+      colors: ['#00f5ff', '#ff00f5', '#f5ff00', '#00ff50', '#5000ff'],
+      glowColors: ['#00f5ff', '#ff00f5', '#f5ff00'],
+      particles: ['hologram', 'grid', 'dot']
+    },
+    cosmic: {
+      name: 'Cosmic Space',
+      background: 'linear-gradient(135deg, #0f0f0f 0%, #1a0033 50%, #000033 100%)',
+      colors: ['#ffffff', '#ff6b9d', '#4ecdc4', '#45b7d1', '#96ceb4'],
+      glowColors: ['#ffffff', '#ff6b9d', '#4ecdc4'],
+      particles: ['star', 'planet', 'comet']
+    }
+  }), []);
+
+  const themeKeys = Object.keys(themes);
+  const [currentThemeIndex, setCurrentThemeIndex] = useState(() => Math.floor(Math.random() * themeKeys.length));
+  const currentTheme = themes[themeKeys[currentThemeIndex]];
+
   // State management for the quiz
   const [gameState, setGameState] = useState('start'); // 'start', 'quiz', 'loser', 'result'
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -1002,6 +1062,11 @@ export default function App() {
     }
   }, [isDarkMode]);
 
+  // Function to cycle through themes
+  const toggleTheme = () => {
+    setCurrentThemeIndex((prevIndex) => (prevIndex + 1) % themeKeys.length);
+  };
+
   // Function to start the quiz
   const startQuiz = (ready) => {
     if (ready) {
@@ -1013,6 +1078,11 @@ export default function App() {
       setGameState('loser');
     }
   };
+  
+  // *** FIX: Function to go back to the start screen ***
+  const goHome = () => {
+      setGameState('start');
+  }
 
   // Function to restart the quiz
   const restartQuiz = () => {
@@ -1055,7 +1125,7 @@ export default function App() {
       case 'start':
         return <StartScreen onStart={startQuiz} />;
       case 'loser':
-        return <LoserScreen />;
+        return <LoserScreen onGoBack={goHome} />; // *** FIX: Pass goHome function ***
       case 'quiz':
         if (shuffledQuestions.length === 0) return <div>Loading...</div>;
         return (
@@ -1076,10 +1146,10 @@ export default function App() {
 
   return (
     <>
-      <Particles />
-      <div className={`min-h-screen font-sans transition-colors duration-300 flex flex-col items-center justify-center p-4 ${isDarkMode ? 'dark' : ''}`}>
+      <Particles currentTheme={currentTheme} />
+      {/* *** FIX: Added dark mode background and proper centering classes *** */}
+      <div className={`min-h-screen font-sans transition-colors duration-300 flex flex-col items-center justify-center p-4 ${isDarkMode ? 'dark bg-gray-900 bg-opacity-80' : 'bg-transparent'}`}>
         
-        {/* Header with Dark Mode Toggle and Score */}
         <header className="w-full max-w-4xl mx-auto flex justify-between items-center p-4 text-white fixed top-0 left-1/2 -translate-x-1/2 z-20">
           <h1 className="text-xl md:text-2xl font-bold tracking-wider text-shadow">Samskruthika Kannada Quiz</h1>
           <div className="flex items-center space-x-4">
@@ -1089,6 +1159,13 @@ export default function App() {
               </div>
             )}
             <button
+              onClick={toggleTheme}
+              className="p-2 rounded-full bg-black bg-opacity-30 backdrop-blur-sm text-xs font-semibold transition-transform duration-300 hover:scale-110 focus:outline-none focus:ring-2 focus:ring-white min-w-[80px] text-center"
+              title={`Current: ${currentTheme.name}`}
+            >
+              🎨 {currentTheme.name}
+            </button>
+            <button
               onClick={() => setIsDarkMode(!isDarkMode)}
               className="p-2 rounded-full bg-black bg-opacity-30 backdrop-blur-sm text-2xl transition-transform duration-300 hover:scale-110 focus:outline-none focus:ring-2 focus:ring-white"
             >
@@ -1097,7 +1174,6 @@ export default function App() {
           </div>
         </header>
 
-        {/* Main Content Area */}
         <main className="w-full flex-grow flex items-center justify-center pt-20 pb-20">
           {renderScreen()}
         </main>
@@ -1106,15 +1182,30 @@ export default function App() {
         {gameState === 'quiz' && (
           <>
             <button 
-              onClick={() => setIsNavOpen(!isNavOpen)}
+              onClick={() => setIsNavOpen(true)}
               className="fixed bottom-5 left-5 z-30 bg-indigo-600 text-white p-3 rounded-full shadow-lg text-2xl hover:bg-indigo-700 transition-transform duration-300 hover:scale-110"
             >
               ☰
             </button>
+            
+            {/* *** FIX: Added overlay for closing nav *** */}
+            {isNavOpen && (
+              <div 
+                className="fixed inset-0 bg-black bg-opacity-50 z-30"
+                onClick={() => setIsNavOpen(false)}
+              ></div>
+            )}
+
             <div 
               className={`fixed top-0 left-0 h-full bg-gray-900 bg-opacity-80 backdrop-blur-md p-5 z-40 transition-transform duration-500 ease-in-out ${isNavOpen ? 'translate-x-0' : '-translate-x-full'} w-64 md:w-80 overflow-y-auto`}
             >
-              <h3 className="text-2xl font-bold text-white mb-4">Questions</h3>
+              {/* *** FIX: Added close button to nav panel *** */}
+              <div className="flex justify-between items-center mb-4">
+                <h3 className="text-2xl font-bold text-white">Questions</h3>
+                <button onClick={() => setIsNavOpen(false)} className="text-white text-3xl hover:text-red-500 transition-colors">
+                  &times;
+                </button>
+              </div>
               <div className="grid grid-cols-4 gap-2">
                 {shuffledQuestions.map((_, index) => {
                   const answerStatus = userAnswers[index];
@@ -1157,16 +1248,17 @@ const StartScreen = ({ onStart }) => (
   </div>
 );
 
-const LoserScreen = () => (
+// *** FIX: Added onGoBack prop and a button ***
+const LoserScreen = ({ onGoBack }) => (
   <div className="text-center text-white p-8 bg-black bg-opacity-40 backdrop-blur-md rounded-2xl shadow-2xl animate-fade-in">
-    <h2 className="text-3xl md:text-5xl font-bold mb-4 text-red-400 text-shadow-lg">
+    <h2 className="text-3xl md:text-5xl font-bold mb-6 text-red-400 text-shadow-lg">
       CMONNN STUDYYYYY LOSERRRRRRRRRRRRRRRRRR 😭
     </h2>
+    <button onClick={onGoBack} className="btn-secondary">Go Back</button>
   </div>
 );
 
 const QuizScreen = ({ question, onAnswer, questionNumber, totalQuestions, userAnswer }) => {
-  // *** FIX: Shuffle options for each question ***
   const shuffledOptions = useMemo(() => {
     return [...question.options].sort(() => Math.random() - 0.5);
   }, [question]);
@@ -1218,57 +1310,6 @@ const ResultScreen = ({ score, total, onRestart }) => (
   </div>
 );
 
-// Add some global styles for animations and custom classes
-const GlobalStyles = () => (
-  <style>{`
-    .text-shadow {
-      text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
-    }
-    .text-shadow-lg {
-      text-shadow: 3px 3px 6px rgba(0,0,0,0.7);
-    }
-    .btn-primary {
-      @apply bg-indigo-600 text-white font-bold py-3 px-8 rounded-full text-lg transition-all duration-300 transform hover:scale-105 hover:bg-indigo-500 shadow-lg focus:outline-none focus:ring-4 focus:ring-indigo-400;
-    }
-    .btn-secondary {
-      @apply bg-gray-600 text-white font-bold py-3 px-8 rounded-full text-lg transition-all duration-300 transform hover:scale-105 hover:bg-gray-500 shadow-lg focus:outline-none focus:ring-4 focus:ring-gray-400;
-    }
-    
-    @keyframes fade-in {
-      from { opacity: 0; transform: scale(0.95); }
-      to { opacity: 1; transform: scale(1); }
-    }
-    .animate-fade-in {
-      animation: fade-in 0.5s ease-out forwards;
-    }
-    
-    @keyframes slide-up {
-      from { opacity: 0; transform: translateY(20px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
-    .animate-slide-up {
-      animation: slide-up 0.5s ease-out forwards;
-    }
-    
-    @keyframes shake {
-      0%, 100% { transform: translateX(0); }
-      10%, 30%, 50%, 70%, 90% { transform: translateX(-5px); }
-      20%, 40%, 60%, 80% { transform: translateX(5px); }
-    }
-    .animate-shake {
-      animation: shake 0.5s ease-in-out;
-    }
-
-    @keyframes pulse-correct {
-      0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(74, 222, 128, 0.7); }
-      50% { transform: scale(1.02); box-shadow: 0 0 10px 5px rgba(74, 222, 128, 0); }
-    }
-    .animate-pulse-correct {
-      animation: pulse-correct 1s ease-in-out;
-    }
-  `}</style>
-);
-
 // Inject Tailwind CSS and Global Styles
 const root = document.getElementById('root');
 if (root) {
@@ -1279,6 +1320,15 @@ if (root) {
   const styleSheet = document.createElement("style");
   styleSheet.type = "text/css";
   styleSheet.innerText = `
+    html.dark {
+        color-scheme: dark;
+    }
+    .text-shadow {
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    }
+    .text-shadow-lg {
+      text-shadow: 3px 3px 6px rgba(0,0,0,0.7);
+    }
     .btn-primary {
       background-color: #4f46e5; color: white; font-weight: bold; padding: 0.75rem 2rem; border-radius: 9999px; font-size: 1.125rem; transition: all 0.3s; transform: scale(1); box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
     }
@@ -1290,6 +1340,35 @@ if (root) {
     }
     .btn-secondary:hover {
       transform: scale(1.05); background-color: #6b7280;
+    }
+    @keyframes fade-in {
+      from { opacity: 0; transform: scale(0.95); }
+      to { opacity: 1; transform: scale(1); }
+    }
+    .animate-fade-in {
+      animation: fade-in 0.5s ease-out forwards;
+    }
+    @keyframes slide-up {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .animate-slide-up {
+      animation: slide-up 0.5s ease-out forwards;
+    }
+    @keyframes shake {
+      0%, 100% { transform: translateX(0); }
+      10%, 30%, 50%, 70%, 90% { transform: translateX(-5px); }
+      20%, 40%, 60%, 80% { transform: translateX(5px); }
+    }
+    .animate-shake {
+      animation: shake 0.5s ease-in-out;
+    }
+    @keyframes pulse-correct {
+      0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(74, 222, 128, 0.7); }
+      50% { transform: scale(1.02); box-shadow: 0 0 10px 5px rgba(74, 222, 128, 0); }
+    }
+    .animate-pulse-correct {
+      animation: pulse-correct 1s ease-in-out;
     }
   `;
   document.head.appendChild(styleSheet);
