@@ -1,5 +1,5 @@
 # Samksruthika Kannada Quiz
-## https://samskruthikakannadaquiz.web.app/
+## https://samskruthikakannadaquiz.web.app
 
 A vibrant and engaging quiz application built with React
 
