@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# Samksruthika Kannada Quiz
+## https://samskruthikakannadaquiz.web.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A vibrant and engaging quiz application built with React
 
-## Available Scripts
+## ✨ Features
 
-In the project directory, you can run:
+- **🎨 Multiple Themes:** The app isn’t just a quiz—it’s an experience. Cycle through dynamic, eye-catching themes like **Cyberpunk, Neon Synthwave, Organic Nature, Retro Wave, Minimal Pastel, and more.** Each theme transforms the look and feel of the app, keeping every quiz session fresh and exciting.
+- **🌗 Dark Mode:** Easily toggle between light and dark modes for a comfortable viewing experience.
+- **📱 Responsive Design:** A clean, modern UI that looks great on both desktop and mobile devices.
+- **⚡ Interactive Quiz Flow:** Smooth transitions and instant visual feedback for correct and incorrect answers.
+- **🧭 Easy Navigation:** Jump to any question using the side navigation panel.
+- **📊 Real-Time Score Tracking:** Keep an eye on your progress with a dynamic score display.
 
-### `npm start`
+## 🚀 How to Run Locally
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+To get this project up and running on your local machine, follow these steps:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Prerequisites
 
-### `npm test`
+- [Node.js](https://nodejs.org/) installed on your machine.
+- A package manager like `npm` or `yarn`.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Installation
 
-### `npm run build`
+1. **Clone the repository:**
+    ```
+    git clone https://github.com/VTG56/KannadaQuiz.git
+    cd KannadaQuiz
+    ```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. **Install dependencies:**
+    ```
+    npm install
+    # or
+    yarn install
+    ```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+3. **Run the development server:**
+    ```
+    npm start
+    # or
+    yarn start
+    ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The application should now be running in your browser at `http://localhost:3000`.
 
-### `npm run eject`
+## 🛠️ Tech Stack
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- **React** – The core library for building the user interface.
+- **Tailwind CSS** – A utility-first CSS framework for rapid styling and theme management.
+- **JavaScript** – The primary programming language.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📁 Project Structure
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+The main logic for the application is contained within the `App.js` file, which handles:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- State management  
+- Theme switching (🌟 Multiple Themes support!)  
+- Rendering of different screens (Start, Quiz, Result)
 
-## Learn More
+## 🧑‍💻 Contributing
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Contributions are welcome! If you'd like to improve this project, please follow these steps:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature-name`).
+3. Make your changes and commit them (`git commit -m 'feat: Add new feature'`).
+4. Push to the branch (`git push origin feature/your-feature-name`).
+5. Open a Pull Request.
